@@ -2,3 +2,6 @@ halo ini versi 1
 
 daftar makanan:
 indomi
+
+daftar minuman:
+air putih
