@@ -1,1 +1,4 @@
 halo ini versi 1
+
+daftar makanan:
+indomi
